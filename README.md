@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lithTech
+- 👀 I’m interested in tech's and theory of everything
+- 🌱 I’m currently learning stuff (ml, kotlin)
+- 📫 How to reach me: lithtech@gmail.com
